@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!--Created by Custom Designer (TM), build , on Mon May 29 18:46:14 2017-->
+<file-format version="1.0" name="stateCategory" >
+ <object version="1" type="saEnvironmentOptions" name="environmentOptions" >
+  <attribute type="giBoolean" value="0" name="caseSensitive" />
+  <attribute type="giString" value="" name="commandLineOptions" />
+  <attribute type="giBoolean" value="0" name="enableMultiThreading" />
+  <attribute type="giBoolean" value="0" name="hpp" />
+  <attribute type="giString" value="" name="includePath" />
+  <attribute type="giString" value="HSPICE" name="netlistLanguage" />
+  <attribute type="giInt" value="1" name="numThreads" />
+  <attribute type="giString" value="psf" name="outputDataFormat" />
+  <attribute type="giString" value="hspice hspiceD" name="stopViewList" />
+  <attribute type="giString" value="hspice hspiceD cmos.sch cmos_sch schematic veriloga" name="switchViewList" />
+  <attribute type="giBoolean" value="0" name="use64Bit" />
+ </object>
+</file-format>

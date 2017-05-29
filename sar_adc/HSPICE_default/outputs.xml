@@ -1,0 +1,174 @@
+<?xml version="1.0"?>
+<!--Created by Custom Designer (TM), build , on Mon May 29 18:46:14 2017-->
+<file-format version="1.0" name="stateCategory" >
+ <object version="1" type="saOutputs" name="outputs" >
+  <attribute type="giString" value="default" name="outputSet" />
+  <collection name="outputSets" >
+   <object version="1" type="saOutputSet" name="outputSets" >
+    <attribute type="giString" value="default" name="name" />
+    <collection name="outputs" >
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/vin)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket0" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/track)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket1" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/track_b)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket2" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/vin-)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket3" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/vin+)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket4" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/comp_in)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket5" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/adc7)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket6" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/adc6)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket7" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/adc5)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket8" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/adc4)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket9" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/adc3)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket10" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/adc2)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket11" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/adc1)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket12" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/adc0)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket0" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/done)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket1" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+     <object version="1" type="saOutput" name="outputs" >
+      <attribute type="giString" value="" name="analyses" />
+      <attribute type="giString" value="v(/reset)" name="expr" />
+      <attribute type="giString" value="" name="name" />
+      <attribute type="enOutputType" value="net" name="outputType" />
+      <attribute type="giBoolean" value="1" name="plot" />
+      <attribute type="giString" value="plotpacket2" name="probe" />
+      <attribute type="giBoolean" value="1" name="save" />
+      <attribute type="giString" value="wave" name="value" />
+     </object>
+    </collection>
+   </object>
+  </collection>
+ </object>
+</file-format>

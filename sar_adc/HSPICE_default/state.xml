@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!--Created by Custom Designer (TM), build , on Mon May 29 18:46:14 2017-->
+<file-format version="1.0" name="stateData" >
+ <attribute type="dmCellView" value="CoE197U_project_final/sar_adc/schematic" name="design" />
+ <attribute type="giBoolean" value="1" name="enabled" />
+ <attribute type="giString" value="default" name="name" />
+ <attribute type="giString" value="HSPICE" name="simulator" />
+ <comment></comment>
+ <integration version="1" />
+</file-format>

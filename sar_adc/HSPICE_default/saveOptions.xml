@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--Created by Custom Designer (TM), build , on Mon May 29 18:46:14 2017-->
+<file-format version="1.0" name="stateCategory" >
+ <object version="1" type="saSaveOptions" name="saveOptions" >
+  <attribute type="giBoolean" value="0" name="allAnalogTC" />
+  <attribute type="giString" value="" name="postLevel" />
+  <attribute type="giString" value="" name="postTop" />
+  <attribute type="giBoolean" value="0" name="power" />
+  <attribute type="giString" value="all" name="save" />
+  <attribute type="giBoolean" value="0" name="subcktCurrent" />
+  <attribute type="giBoolean" value="0" name="totalPower" />
+ </object>
+</file-format>

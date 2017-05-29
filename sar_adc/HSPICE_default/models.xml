@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--Created by Custom Designer (TM), build , on Mon May 29 18:46:14 2017-->
+<file-format version="1.0" name="stateCategory" >
+ <object version="1" type="saModelSetup" name="models" >
+  <attribute type="giString" value="" name="includePath" />
+  <collection name="modelFiles" >
+   <object version="1" type="saModelFile" name="modelFiles" >
+    <attribute type="giBoolean" value="1" name="enabled" />
+    <attribute type="giString" value="/nfs/home/coe141pycell/SAED_PDK90nm/hspice/SAED90nm.lib" name="filename" />
+    <attribute type="giString" value="TT_12" name="section" />
+   </object>
+  </collection>
+ </object>
+</file-format>
